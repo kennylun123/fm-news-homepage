@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-news-homepage-using-react-t0wxibvCQZ](https://www.frontendmentor.io/solutions/responsive-news-homepage-using-react-t0wxibvCQZ)
+- Live Site URL: [https://kennylun123.github.io/fm-news-homepage/](https://kennylun123.github.io/fm-news-homepage/)
 
 ## My process
 

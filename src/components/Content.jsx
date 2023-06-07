@@ -19,22 +19,22 @@ export default function Content() {
         <HeroContent />
         <NewsList />
         <Link
-          key="1"
-          id="1"
+          key="01"
+          id="01"
           img={linkImg1}
           title="Reviving Retro PCs"
           content="What happens when old PCs are given modern upgrades?"
         />
         <Link
-          key="2"
-          id="2"
+          key="02"
+          id="02"
           img={linkImg2}
           title="Top 10 Laptops of 2022"
           content="Our best picks for various needs and budgets."
         />
         <Link
-          key="3"
-          id="3"
+          key="03"
+          id="03"
           img={linkImg3}
           title="The Growth of Gaming"
           content="How the pandemic has sparked fresh opportunities."

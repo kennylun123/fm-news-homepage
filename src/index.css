@@ -350,9 +350,9 @@ footer {
     "hero-title"
     "hero-content"
     "news"
-    "link-1"
-    "link-2"
-    "link-3";
+    "link-01"
+    "link-02"
+    "link-03";
   padding: 1rem;
 }
 
@@ -362,7 +362,7 @@ footer {
     grid-template-areas:
       "hero-img hero-img news"
       "hero-title hero-content news"
-      "link-1 link-2 link-3";
+      "link-01 link-02 link-03";
     grid-template-columns: 1fr 1fr 1fr;
     padding: 0;
   }
@@ -384,16 +384,16 @@ footer {
   grid-area: news;
 }
 
-#link-1 {
-  grid-area: link-1;
+#link-01 {
+  grid-area: link-01;
 }
 
-#link-2 {
-  grid-area: link-2;
+#link-02 {
+  grid-area: link-02;
 }
 
-#link-3 {
-  grid-area: link-3;
+#link-03 {
+  grid-area: link-03;
 }
 
 picture > img,
